@@ -13,7 +13,7 @@ You can run this project by following these steps:
 ```sh
 git clone git@github.com:dabit3/lens-protocol-frontend.git
 
-cd lens-protocol-frontend
+cd lens-interactions
 
 npm install
 
